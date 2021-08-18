@@ -12,3 +12,5 @@ Just download, extract, and double-click the `.exe` file.  That's it! Done!
 
 Massive thanks to rdbende for the TTK theme!
 https://github.com/rdbende/Sun-Valley-ttk-theme/commits?author=rdbende
+
+Thanks to my Foundations of Programming teacher Mr. Pawly for pointing me to PyInstaller, which is what this was compiled with.
