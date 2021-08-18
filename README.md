@@ -7,3 +7,8 @@ The purpose of this was because all of the other auto clickers on the internet j
 # Installation
 
 Just download, extract, and double-click the `.exe` file.  That's it! Done!
+
+# Credits
+
+Massive thanks to rdbende for the TTK theme!
+https://github.com/rdbende/Sun-Valley-ttk-theme/commits?author=rdbende
